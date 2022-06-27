@@ -1,0 +1,12 @@
+{
+  "matricule": "12345678",
+  "generalInfo": {
+    "speed": 150,
+    "lat": -2.2,
+    "long": 25.5
+  },
+  "engineInfo": {
+    "state": "moving",
+    "temperature": 150
+  }
+}
